@@ -1,7 +1,6 @@
 import React from 'react';
 import '../../App.css';
 import { Link } from "react-router-dom";
-import 'bootstrap/dist/css/bootstrap.css';
 import {Navbar, Nav} from 'react-bootstrap';
 
 const Header = () => {
